@@ -41,7 +41,11 @@
     "favicon": "@PROJECT_PATH@/assets/images/352x-128x96.png",
     "noImageResize": "",
     "google-analytics": "",
-    "siteUrl": "undefined"
+    "siteUrl": "http://huiduc.github.io",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsSwitcher": "on",
+    "sitemapSwitcherAuto": "",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
