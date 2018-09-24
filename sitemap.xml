@@ -1,36 +1,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://huiduc.github.io/index.html</loc>
+		<loc>http://huiduc.nl/index.html</loc>
 		<changefreq>daily</changefreq>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://huiduc.github.io/ontvangst_en_afscheid.html</loc>
+		<loc>http://huiduc.nl/ontvangst_en_afscheid.html</loc>
 		<changefreq>daily</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://huiduc.github.io/cremeren.html</loc>
+		<loc>http://huiduc.nl/cremeren.html</loc>
 		<changefreq>daily</changefreq>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://huiduc.github.io/begraven.html</loc>
+		<loc>http://huiduc.nl/begraven.html</loc>
 		<changefreq>daily</changefreq>
 		<priority>0.7</priority>
 	</url>
 	<url>
-		<loc>http://huiduc.github.io/prijzen.html</loc>
+		<loc>http://huiduc.nl/prijzen.html</loc>
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
-		<loc>http://huiduc.github.io/contact.html</loc>
+		<loc>http://huiduc.nl/contact.html</loc>
 		<changefreq>daily</changefreq>
 		<priority>0.9</priority>
 	</url>
 	<url>
-		<loc>http://huiduc.github.io/algemene_voorwaarden.html</loc>
+		<loc>http://huiduc.nl/algemene_voorwaarden.html</loc>
 		<changefreq>daily</changefreq>
 		<priority>0.7</priority>
 	</url>
