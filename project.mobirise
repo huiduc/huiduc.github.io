@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Huiduc",
-    "currentPage": "contact.html",
+    "currentPage": "cremeren.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -35,7 +35,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
-    "uniqCompNum": 49,
+    "uniqCompNum": 50,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/352x-128x96.png",
