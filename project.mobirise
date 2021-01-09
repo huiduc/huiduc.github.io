@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Huiduc",
-    "currentPage": "urnen.html",
+    "currentPage": "Crematie&vervoer.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -9081,6 +9081,9 @@
             },
             "H5": {
               "color": "#e4d295"
+            },
+            "P": {
+              "color": "#ff7f9f"
             }
           },
           "_name": "footer1",
